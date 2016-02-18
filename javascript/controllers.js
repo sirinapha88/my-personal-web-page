@@ -1,6 +1,3 @@
-app.controller("MainController", function($scope, $location){
-
-});
 app.controller("HomeController", function($scope, $location){
 
 });
