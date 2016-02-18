@@ -35,15 +35,15 @@
             			<span class="icon-bar"></span>
             			<span class="icon-bar"></span>
             			</button>
-            			<a class="navbar-brand" ng-click="">Home</a>
+            			<a class="navbar-brand" ng-click="toHome()">Home</a>
             		</div>
             		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             			<ul class="nav navbar-nav">
-            				<li><a href="#">Projects</a></li>
-            				<li><a href="#">Resume</a></li>
+            				<li><a ng-click="toProjects()">Projects</a></li>
+            				<li><a ng-click="toResume()">Resume</a></li>
             			</ul>
             			<ul class="nav navbar-nav navbar-right">
-            			    <li><a href="#">Contact</a></li>
+            			    <li><a ng-click="toContact">Contact</a></li>
             			</ul>
             		</div>
             	</nav>
