@@ -1,6 +1,6 @@
 var app = angular.module('myPersonalWebsite', ['ngRoute']);
 app.config(function($routeProvider){
-    $routeProvider.when('/home', {
+    $routeProvider.when('/', {
         templateUrl: "./views/home.html",
         controller: "HomeController"
     }).when('/contact', {
