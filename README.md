@@ -1,5 +1,4 @@
 # My Personal Website
----
 > created by Edward Tierra, 2016.
 
 ### links
