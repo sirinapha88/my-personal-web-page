@@ -25,7 +25,7 @@ app.controller("ProjectsController", function($scope, $location){
             url: "http://poli-tweet.herokuapp.com/#/",
             imageURL: "http://i.imgur.com/0ha02FCb.png"
         }
-    ]
+    ];
 });
 app.controller("ResumeController", function($scope, $location){
 
