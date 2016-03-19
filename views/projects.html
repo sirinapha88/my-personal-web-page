@@ -2,7 +2,7 @@
     <h1>PROJECTS</h1>
 </center>
 
-<div class="row">
+<div class="row" ng-controller="ProjectsController">
     <div class="col-md-4" ng-repeat="project in projects">
         <center>
             <h3>{{project.projectName}}</h3><small>{{project.miniName}}</small><br>
