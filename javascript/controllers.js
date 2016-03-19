@@ -20,10 +20,10 @@ app.controller("ProjectsController", function($scope, $location){
             imageURL: "http://i.imgur.com/CViH3zYb.png"
         },
         {
-            projectName: ,
-            miniName: ,
-            url: ,
-            imageURL:
+            projectName: "PoliTweet",
+            miniName: "to follow the 2016 presidential candidates",
+            url: "http://poli-tweet.herokuapp.com/#/",
+            imageURL: "http://i.imgur.com/0ha02FCb.png"
         },
         {
             projectName: ,
