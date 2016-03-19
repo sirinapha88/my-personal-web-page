@@ -6,13 +6,28 @@ app.controller("ContactController", function($scope, $location){
 });
 app.controller("ProjectsController", function($scope, $location){
     //add repeat in here
-    $scope.projects = {
+    $scope.projects = [
+        {
+            projectName: ,
+            url: ,
+            imageURL:
+        },
+        {
+            projectName: ,
+            url: ,
+            imageURL:
+        },
+        {
+            projectName: ,
+            url: ,
+            imageURL:
+        },
         {
             projectName: ,
             url: ,
             imageURL:
         }
-    }
+    ]
 });
 app.controller("ResumeController", function($scope, $location){
 
