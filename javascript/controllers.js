@@ -24,7 +24,13 @@ app.controller("ProjectsController", function($scope, $location){
             miniName: "to follow the 2016 presidential candidates",
             url: "http://poli-tweet.herokuapp.com/#/",
             imageURL: "http://i.imgur.com/0ha02FCb.png"
-        }
+        },
+        {
+            projectName: "Galvanize Cheat Sheet",
+            miniName: "the things I've learned during Galvanize.",
+            url: "https://github.com/Thatsedrich/galvanize-notes",
+            imageURL: "http://i.imgur.com/aLdFWyNb.jpg"
+        },
     ];
 });
 app.controller("ResumeController", function($scope, $location){
