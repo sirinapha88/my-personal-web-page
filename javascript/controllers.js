@@ -24,12 +24,6 @@ app.controller("ProjectsController", function($scope, $location){
             miniName: "to follow the 2016 presidential candidates",
             url: "http://poli-tweet.herokuapp.com/#/",
             imageURL: "http://i.imgur.com/0ha02FCb.png"
-        },
-        {
-            projectName: ,
-            miniName: ,
-            url: ,
-            imageURL:
         }
     ]
 });
