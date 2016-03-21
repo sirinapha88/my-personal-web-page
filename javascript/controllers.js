@@ -33,7 +33,7 @@ app.controller("ProjectsController", function($scope, $location){
         },
         {
             projectName: "State Plane Coordinate Surveyor App",
-            miniName: "",
+            miniName: "Like TheOdolite",
             url: "",
             imageURL: ""
         },
