@@ -2,10 +2,15 @@
     margin-left: 3%;
     margin-right: 3%;
 }
+.project-title{
 
+}
+#the-projects{
+    border: 1px;
+}
 .fa{
     color: #000000;
 }
-img.img-thumbnail{
-    
+.img-thumbnail{
+
 }
