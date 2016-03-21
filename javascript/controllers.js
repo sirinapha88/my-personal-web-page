@@ -27,7 +27,7 @@ app.controller("ProjectsController", function($scope, $location){
         },
         {
             projectName: "Capstone Project",
-            miniName: "",
+            miniName: "for Galvanize Hiring Day",
             url: "",
             imageURL: ""
         },
