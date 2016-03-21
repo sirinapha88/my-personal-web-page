@@ -26,11 +26,17 @@ app.controller("ProjectsController", function($scope, $location){
             imageURL: "http://i.imgur.com/0ha02FCb.png"
         },
         {
+            projectName: "Capstone Project",
+            miniName: "",
+            url: "",
+            imageURL: ""
+        },
+        {
             projectName: "Galvanize Cheat Sheet",
             miniName: "the things I've learned during Galvanize.",
             url: "https://github.com/Thatsedrich/galvanize-notes",
             imageURL: "http://i.imgur.com/aLdFWyNb.jpg"
-        },
+        }
     ];
 });
 app.controller("ResumeController", function($scope, $location){
