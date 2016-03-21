@@ -3,7 +3,7 @@
 </center>
 
 <div class="row" ng-controller="ProjectsController">
-    <div class="col-md-4" ng-repeat="project in projects" id="projects">
+    <div class="col-md-4 projects" ng-repeat="project in projects">
         <center>
             <h3 class="project-title">{{project.projectName}}</h3><small>{{project.miniName}}</small><br>
             <a href="{{project.url}}"><img src="{{project.imageURL}}" alt="..." class="img-thumbnail"></a>
