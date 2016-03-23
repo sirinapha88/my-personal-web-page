@@ -11,7 +11,7 @@ app.controller("ProjectsController", function($scope, $location){
             projectName: "Bike Parking",
             miniName: "in San Francisco",
             url: "http://thatsedrich.github.io/project-app/",
-            imageURL: "http://i.imgur.com/vKjfqPlb.jpg"
+            imageURL: "http://i.imgur.com/2nl5Gv1.jpg"
         },
         {
             projectName: "Fight Matching",
