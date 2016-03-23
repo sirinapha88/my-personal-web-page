@@ -29,7 +29,7 @@ app.controller("ProjectsController", function($scope, $location){
             projectName: "Capstone Project",
             miniName: "for Galvanize Hiring Day",
             url: "",
-            imageURL: ""
+            imageURL: "http://i.imgur.com/HNiWmRL.png"
         },
         {
             projectName: "State Plane Coordinate Surveyor App",
