@@ -17,7 +17,7 @@ app.controller("ProjectsController", function($scope, $location){
             projectName: "Fight Matching",
             miniName: "for Kickboxing and MMA",
             url: "https://limitless-mesa-89502.herokuapp.com/",
-            imageURL: ""
+            imageURL: "http://i.imgur.com/vLRAz0M.jpg"
         },
         {
             projectName: "PoliTweet",
