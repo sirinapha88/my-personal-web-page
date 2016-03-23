@@ -17,13 +17,13 @@ app.controller("ProjectsController", function($scope, $location){
             projectName: "Fight Matching",
             miniName: "for Kickboxing and MMA",
             url: "https://limitless-mesa-89502.herokuapp.com/",
-            imageURL: "http://i.imgur.com/CViH3zYb.png"
+            imageURL: ""
         },
         {
             projectName: "PoliTweet",
             miniName: "to follow the 2016 presidential candidates",
             url: "http://poli-tweet.herokuapp.com/#/",
-            imageURL: "http://i.imgur.com/0ha02FCb.png"
+            imageURL: ""
         },
         {
             projectName: "Capstone Project",
@@ -41,7 +41,7 @@ app.controller("ProjectsController", function($scope, $location){
             projectName: "Galvanize Cheat Sheet",
             miniName: "the things I've learned during Galvanize.",
             url: "https://github.com/Thatsedrich/galvanize-notes",
-            imageURL: "http://i.imgur.com/aLdFWyNb.jpg"
+            imageURL: ""
         }
     ];
 });
