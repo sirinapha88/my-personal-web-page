@@ -41,7 +41,7 @@ app.controller("ProjectsController", function($scope, $location){
             projectName: "Galvanize Cheat Sheet",
             miniName: "the things I've learned during Galvanize.",
             url: "https://github.com/Thatsedrich/galvanize-notes",
-            imageURL: ""
+            imageURL: "http://i.imgur.com/tDkiJVB.png"
         }
     ];
 });
