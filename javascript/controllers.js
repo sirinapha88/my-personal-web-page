@@ -35,7 +35,7 @@ app.controller("ProjectsController", function($scope, $location){
             projectName: "State Plane Coordinate Surveyor App",
             miniName: "Like TheOdolite",
             url: "",
-            imageURL: ""
+            imageURL: "http://i.imgur.com/HNiWmRL.png"
         },
         {
             projectName: "Galvanize Cheat Sheet",
