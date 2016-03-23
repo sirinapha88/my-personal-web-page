@@ -23,7 +23,7 @@ app.controller("ProjectsController", function($scope, $location){
             projectName: "PoliTweet",
             miniName: "to follow the 2016 presidential candidates",
             url: "http://poli-tweet.herokuapp.com/#/",
-            imageURL: ""
+            imageURL: "http://i.imgur.com/daAop09.png"
         },
         {
             projectName: "Capstone Project",
