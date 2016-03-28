@@ -26,10 +26,10 @@ app.controller("ProjectsController", function($scope, $location){
             imageURL: "http://i.imgur.com/daAop09.png"
         },
         {
-            projectName: "Capstone Project",
+            projectName: "Pout about the Drought",
             miniName: "for Galvanize Hiring Day",
-            url: "",
-            imageURL: "http://i.imgur.com/HNiWmRL.png"
+            url: "https://pout-about-the-drought.herokuapp.com/#/help",
+            imageURL: "http://i.imgur.com/nk5n7h2h.png"
         },
         {
             projectName: " Surveyor App",
